@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @RichaKale25
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python Programming Language
 - 📫 Reach me on richakale65@gmail.com
 
 <!---
